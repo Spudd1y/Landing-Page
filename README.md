@@ -1,11 +1,1 @@
-# odin-recipes
-# flex
-# flex
-# flex
-# flex
-# flex
-# Landing-Page
-# Landing-Page
-# Landing-Page
-# Landing-Page
-# Landing-page
+Landing page
